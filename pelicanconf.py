@@ -1,6 +1,6 @@
 AUTHOR = "Eoin O'Neill"
 SITENAME = 'Lionel Inoe'
-SITEURL = ''
+SITEURL = 'eoin-oneill-yokai.github.io'
 
 PATH = 'content'
 
